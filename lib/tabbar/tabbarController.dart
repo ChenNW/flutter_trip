@@ -51,8 +51,8 @@ final List<BottomNavigationBarItem> _items = [
       activeIcon: Icon(Icons.camera_alt),
       title: Text('旅拍')),
   BottomNavigationBarItem(
-      icon: Icon(Icons.account_balance_wallet),
-      activeIcon: Icon(Icons.account_balance_wallet),
+      icon: Icon(Icons.account_circle),
+      activeIcon: Icon(Icons.account_circle),
       title: Text('我的')),
 ];
 
